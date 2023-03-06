@@ -1,0 +1,28 @@
+body {
+    margin: 100px;
+    background: #1B244A;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    color: white;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+.btn {
+    background: none;
+    border: 2px solid #9AABD8;
+    color: #9AABD8;
+}
